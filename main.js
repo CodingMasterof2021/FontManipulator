@@ -28,5 +28,5 @@ function draw(){
     background("#031defs");
     textSize(difference); 
     fill("#031de9");
-    text("Advay", 50, 400);
+    text("~~SHINDOGOD~~", 50, 400);
 }
